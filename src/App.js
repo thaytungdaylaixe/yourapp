@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Thầy Tùng - Dạy lái xe
         </a>
       </header>
     </div>
