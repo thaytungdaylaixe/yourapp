@@ -19,7 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "git": "git add . && git commit -m \"first commit\" && git push -u origin main"
+    "github": "git add . && git commit -m \"first commit\" && git push -u origin main",
+    "git": "npm run github && npm run deploy"
   },
   "eslintConfig": {
     "extends": [
